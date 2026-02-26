@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <work>
+    <work-title>Untitled score</work-title>
+  </work>
+  <movement-title>stimuli-Haydn-Symphony No. 88 in G major, 2nd movement, Largo.musicxml</movement-title>
+  <identification>
+    <creator type="composer">Composer / arranger</creator>
+    <encoding>
+      <encoding-date>2026-02-25</encoding-date>
+      <software>music21 v.9.9.1</software>
+      <software>MuseScore 4.5.2</software>
+      <supports attribute="new-system" element="print" type="yes" value="yes" />
+      <supports attribute="new-page" element="print" type="yes" value="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>6.99912</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1696.93</page-height>
+      <page-width>1200.48</page-width>
+      <page-margins>
+        <left-margin>85.725</left-margin>
+        <right-margin>85.725</right-margin>
+        <top-margin>85.725</top-margin>
+        <bottom-margin>85.725</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <appearance>
+      <line-width type="light barline">1.8</line-width>
+      <line-width type="heavy barline">5.5</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="bracket">4.5</line-width>
+      <line-width type="dashes">1</line-width>
+      <line-width type="enclosure">1</line-width>
+      <line-width type="ending">1.1</line-width>
+      <line-width type="extend">1</line-width>
+      <line-width type="leger">1.6</line-width>
+      <line-width type="pedal">1.1</line-width>
+      <line-width type="octave shift">1.1</line-width>
+      <line-width type="slur middle">2.1</line-width>
+      <line-width type="slur tip">0.5</line-width>
+      <line-width type="staff">1.1</line-width>
+      <line-width type="stem">1</line-width>
+      <line-width type="tie middle">2.1</line-width>
+      <line-width type="tie tip">0.5</line-width>
+      <line-width type="tuplet bracket">1</line-width>
+      <line-width type="wedge">1.2</line-width>
+      <note-size type="cue">70</note-size>
+      <note-size type="grace">70</note-size>
+      <note-size type="grace-cue">49</note-size>
+    </appearance>
+    <music-font font-family="Leland" />
+    <word-font font-family="Edwin" font-size="10" />
+    <lyric-font font-family="Edwin" font-size="10" />
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="600.241173" default-y="1611.208292" font-size="22" justify="center" valign="top">Untitled score</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="600.241173" default-y="1554.058251" font-size="14" justify="center" valign="top">Subtitle</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="1114.75731" default-y="1511.208419" justify="right" valign="bottom">Composer / arranger</credit-words>
+  </credit>
+  <part-list>
+    <part-group number="1" type="start">
+      <group-symbol>bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P1">
+      <part-name>Oboe</part-name>
+      <part-abbreviation>Ob.</part-abbreviation>
+      <score-instrument id="Ifc1ed28cb7b273ac0cb247df38aae94b">
+        <instrument-name>Oboe</instrument-name>
+        <instrument-abbreviation>Ob</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Ifc1ed28cb7b273ac0cb247df38aae94b">
+        <midi-channel>2</midi-channel>
+        <midi-program>69</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P2">
+      <part-name>Bassoon</part-name>
+      <part-abbreviation>Bsn.</part-abbreviation>
+      <score-instrument id="If4be2ce8f985003d82ddefbea962abed">
+        <instrument-name>Bassoon</instrument-name>
+        <instrument-abbreviation>Bsn</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="If4be2ce8f985003d82ddefbea962abed">
+        <midi-channel>3</midi-channel>
+        <midi-program>71</midi-program>
+      </midi-instrument>
+    </score-part>
+    <part-group number="1" type="stop" />
+    <score-part id="P3">
+      <part-name>Horn in D</part-name>
+      <part-abbreviation>Hn. in D</part-abbreviation>
+      <score-instrument id="Idd3345c46f8bc0b10e2cdcccd4124025">
+        <instrument-name>Horn</instrument-name>
+        <instrument-abbreviation>Hn</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="Idd3345c46f8bc0b10e2cdcccd4124025">
+        <midi-channel>4</midi-channel>
+        <midi-program>61</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P4">
+      <part-name>Bass Viol</part-name>
+      <part-abbreviation>B. Vl.</part-abbreviation>
+      <score-instrument id="I4cb1eef91c562802f22658da776d62b6">
+        <instrument-name>Bass Viol</instrument-name>
+        <instrument-abbreviation>Vc</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I4cb1eef91c562802f22658da776d62b6">
+        <midi-channel>6</midi-channel>
+        <midi-program>43</midi-program>
+      </midi-instrument>
+    </score-part>
+    <part-group number="2" type="start">
+      <group-symbol>bracket</group-symbol>
+      <group-barline>yes</group-barline>
+    </part-group>
+    <score-part id="P5">
+      <part-name>Viola</part-name>
+      <part-abbreviation>Vla.</part-abbreviation>
+      <score-instrument id="I71a7ebb0f1f0a8e4bd4d77affba9762a">
+        <instrument-name>Viola</instrument-name>
+        <instrument-abbreviation>Vla</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I71a7ebb0f1f0a8e4bd4d77affba9762a">
+        <midi-channel>9</midi-channel>
+        <midi-program>42</midi-program>
+      </midi-instrument>
+    </score-part>
+    <score-part id="P6">
+      <part-name>Violoncello</part-name>
+      <part-abbreviation>Vc.</part-abbreviation>
+      <score-instrument id="I4e7bf42c0ff5fbed8e39513a352e6b8b">
+        <instrument-name>Violoncello</instrument-name>
+        <instrument-abbreviation>Vc</instrument-abbreviation>
+      </score-instrument>
+      <midi-instrument id="I4e7bf42c0ff5fbed8e39513a352e6b8b">
+        <midi-channel>13</midi-channel>
+        <midi-program>43</midi-program>
+      </midi-instrument>
+    </score-part>
+    <part-group number="2" type="stop" />
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <system-layout>
+          <system-margins>
+            <left-margin>120.01</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <top-system-distance>170</top-system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <metronome parentheses="no">
+            <beat-unit>quarter</beat-unit>
+            <per-minute>60</per-minute>
+          </metronome>
+        </direction-type>
+        <sound tempo="60" />
+      </direction>
+      <note default-x="111.19" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note default-x="12.5" default-y="-35">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="46.07" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="79.64" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="61.75" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="95.32" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note default-x="12.5" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="0">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-25">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="0">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="79.64" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note default-x="12.5" default-y="10">
+        <pitch>
+          <step>A</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="5">
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="68.45" default-y="0">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="90.83" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="119.58" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <system-layout>
+          <system-margins>
+            <left-margin>97.75</left-margin>
+            <right-margin>0</right-margin>
+          </system-margins>
+          <system-distance>151.41</system-distance>
+        </system-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>2</fifths>
+        </key>
+      </attributes>
+      <note default-x="89.07" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="206.51" default-y="-20">
+        <rest />
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note default-x="305.75" default-y="-5">
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="357.95" default-y="-15">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="436.24" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note default-x="12.5" default-y="-10">
+        <pitch>
+          <step>D</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.79" default-y="-20">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="169.08" default-y="-20">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-20">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 2 ===========================-->
+  <part id="P2">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="111.19" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note default-x="12.5" default-y="-120.56">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-110.56">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="46.07" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="90.83" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="61.75" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="95.32" default-y="-80.56">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="start" />
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note default-x="12.5" default-y="-80.56">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <type>quarter</type>
+        <stem>down</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="46.07" default-y="-85.56">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-120.56">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="46.07" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-100.56">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note default-x="12.5" default-y="-95.56">
+        <pitch>
+          <step>B</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-100.56">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.83" default-y="-105.56">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="119.58" default-y="-110.56">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="89.07" default-y="-110.56">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="206.51" default-y="-120.56">
+        <rest />
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note default-x="305.75" default-y="-105.56">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="357.95" default-y="-115.56">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="436.24" default-y="-120.56">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note default-x="12.5" default-y="-110.56">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.79" default-y="-120.56">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="169.08" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-120.56">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 3 ===========================-->
+  <part id="P3">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>72.68</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <staff-details print-object="yes" />
+        <transpose>
+          <diatonic>-4</diatonic>
+          <chromatic>-7</chromatic>
+        </transpose>
+      </attributes>
+      <note default-x="111.19" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note default-x="12.5" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="46.07" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="46.07" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="90.83" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-243.24">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="61.75" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="95.32" default-y="-243.24">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="start" />
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note default-x="12.5" default-y="-243.24">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="46.07" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="90.83" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="46.07" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="start" />
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note default-x="12.5" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="stop" />
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note default-x="46.07" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="90.83" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>72.68</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>0</fifths>
+        </key>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="89.07" default-y="-278.24">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="206.51" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="357.95" default-y="-278.24">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="436.24" default-y="-233.24">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note default-x="12.5" default-y="-263.24">
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <instrument id="Idd3345c46f8bc0b10e2cdcccd4124025" />
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="169.08" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-233.24">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 4 ===========================-->
+  <part id="P4">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="111.19" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="46.07" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-333.8">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note default-x="12.5" default-y="-328.8">
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.83" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-338.8">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="61.75" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="95.32" default-y="-338.8">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note default-x="12.5" default-y="-333.8">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.83" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-323.8">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="79.64" default-y="-358.8">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note default-x="12.5" default-y="-353.8">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="90.83" default-y="-353.8">
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="119.58" default-y="-353.8">
+        <pitch>
+          <step>G</step>
+          <alter>1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>sharp</accidental>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="89.07" default-y="-348.8">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="206.51" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="357.95" default-y="-348.8">
+        <pitch>
+          <step>A</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="436.24" default-y="-333.8">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note default-x="12.5" default-y="-333.8">
+        <pitch>
+          <step>D</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.79" default-y="-333.8">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="169.08" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-333.8">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 5 ===========================-->
+  <part id="P5">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>72.68</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>C</sign>
+          <line>3</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="111.19" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="46.07" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note default-x="12.5" default-y="-461.48">
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="90.83" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="61.75" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="95.32" default-y="-456.48">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note default-x="12.5" default-y="-456.48">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-456.48">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-431.48">
+        <chord />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-446.48">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-456.48">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>up</stem>
+      </note>
+      <note default-x="46.07" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note print-object="no" print-spacing="yes">
+        <rest measure="yes" />
+        <duration>30240</duration>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>72.68</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="206.51" default-y="-446.48">
+        <rest />
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note default-x="436.24" default-y="-446.48">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.79" default-y="-446.48">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="169.08" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-446.48">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+  <!--=========================== Part 6 ===========================-->
+  <part id="P6">
+    <!--========================= Measure 0 ==========================-->
+    <measure implicit="yes" number="0" width="146.56">
+      <print>
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="111.19" default-y="-527.04">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 1 ==========================-->
+    <measure implicit="no" number="1" width="115.01">
+      <note default-x="12.5" default-y="-537.04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-527.04">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="79.64" default-y="-512.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure implicit="no" number="2" width="126.2">
+      <note default-x="12.5" default-y="-512.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-517.04">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="68.45" default-y="-547.04">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-507.04">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure implicit="no" number="3" width="130.69">
+      <note default-x="12.5" default-y="-527.04">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <attributes>
+        <clef>
+          <sign>C</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note default-x="61.75" default-y="-527.04">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure implicit="no" number="4" width="126.2">
+      <note print-object="no" print-spacing="yes">
+        <rest />
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+      </note>
+      <note default-x="68.45" default-y="-547.04">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="90.83" default-y="-547.04">
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure implicit="no" number="5" width="115.01">
+      <note default-x="12.5" default-y="-532.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-522.04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="79.64" default-y="-512.04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure implicit="no" number="6" width="149.37">
+      <note default-x="12.5" default-y="-512.04">
+        <pitch>
+          <step>A</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="46.07" default-y="-517.04">
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="68.45" default-y="-522.04">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+      <note default-x="90.83" default-y="-527.04">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+      </note>
+      <note default-x="119.58" default-y="-532.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure implicit="no" number="7" width="516.33">
+      <print new-system="yes">
+        <staff-layout number="1">
+          <staff-distance>60.56</staff-distance>
+        </staff-layout>
+      </print>
+      <attributes>
+        <key>
+          <fifths>2</fifths>
+        </key>
+        <staff-details print-object="yes" />
+      </attributes>
+      <note default-x="89.07" default-y="-532.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="206.51" default-y="-547.04">
+        <rest />
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+      </note>
+      <note default-x="305.75" default-y="-527.04">
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="357.95" default-y="-537.04">
+        <pitch>
+          <step>C</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="436.24" default-y="-547.04">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure implicit="no" number="8" width="414.96">
+      <note default-x="12.5" default-y="-532.04">
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <stem>down</stem>
+      </note>
+      <note default-x="90.79" default-y="-547.04">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="169.08" default-y="-547.04">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <note default-x="286.52" default-y="-547.04">
+        <rest />
+        <duration>10080</duration>
+        <type>quarter</type>
+      </note>
+      <barline location="right">
+        <bar-style>light-heavy</bar-style>
+      </barline>
+    </measure>
+  </part>
+</score-partwise>
