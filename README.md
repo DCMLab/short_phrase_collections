@@ -1,10 +1,10 @@
 # Short Phrase Reduction Stimuli
 
-A curated collection of 8 short polyphonic phrases for music cognition experiments, specifically designed for iterative music reduction studies.
+A curated collection of 8 short polyphonic phrases.
 
 ## Overview
 
-This dataset contains musical excerpts used as stimuli in behavioral experiments investigating note-level structural salience in polyphonic music. Each phrase is selected to be:
+This dataset contains musical excerpts originally used as stimuli in behavioral experiments investigating note-level structural salience in polyphonic music. Each phrase is selected to be:
 
 - **Short**: 8-16 bars, suitable for iterative reduction tasks
 - **Tonally coherent**: Begins and ends in the same key (or returns to tonic)
@@ -88,27 +88,3 @@ print(phrases[['phrase_id', 'composer', 'work_title', 'key']])
 
 See [docs/selection_criteria.md](docs/selection_criteria.md) for detailed inclusion/exclusion criteria.
 
-## Citation
-
-If you use this dataset, please cite:
-
-```bibtex
-@dataset{wang2025phrases,
-  author = {Wang, Xiaoxuan},
-  title = {Short Phrase Reduction Stimuli},
-  year = {2025},
-  publisher = {Digital and Cognitive Musicology Lab, EPFL},
-  url = {https://github.com/DCMLab/short_phrase_collections}
-}
-```
-
-## License
-
-This dataset is released under [CC BY-SA 4.0](LICENSE).
-
-The musical works included are in the public domain. Score encodings are derived from IMSLP sources.
-
-## Contact
-
-- Xiaoxuan Wang (xiaoxuan.wang@epfl.ch)
-- Digital and Cognitive Musicology Lab, EPFL
