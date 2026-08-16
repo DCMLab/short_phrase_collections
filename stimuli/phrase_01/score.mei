@@ -1,0 +1,1075 @@
+<?xml-model href="https://raw.githubusercontent.com/yrammos/music-encoding-graph-schema/refs/heads/graph/dist/schemata/mei-graphicanalysis.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/yrammos/music-encoding-graph-schema/refs/heads/graph/dist/schemata/mei-graphicanalysis.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei meiversion="6.0-dev" xmlns="http://www.music-encoding.org/ns/mei">
+  <meiHead>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Rondeau from "Abdelazer"</title>
+        <respStmt>
+          <persName role="composer">Henry Purcell (1659-1695)</persName>
+          <persName role="analyst">Yannis Rammos</persName>
+          <persName role="annotator">Yannis Rammos</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <date isodate="2026-08-13T16:54:15"></date>
+      </pubStmt>
+    </fileDesc>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="KriYw1H_">
+        <score xml:id="oSPWWaYk">
+          <scoreDef>
+            <staffGrp>
+              <staffGrp bar.thru="true" symbol="brace">
+                <label>Piano</label>
+                <labelAbbr>Pno.</labelAbbr>
+                <instrDef midi.instrnum="0"></instrDef>
+                <staffDef keysig="1f" lines="5" meter.count="3" meter.unit="4" n="1">
+                  <clef line="2" shape="G"></clef>
+                </staffDef>
+                <staffDef keysig="1f" lines="5" meter.count="3" meter.unit="4" n="2">
+                  <clef line="4" shape="F"></clef>
+                </staffDef>
+              </staffGrp>
+            </staffGrp>
+          </scoreDef>
+          <section xml:id="s1">
+            <measure n="1" xml:id="mzvcuoi">
+              <staff n="1" xml:id="m1s1">
+                <layer n="1" xml:id="m1s1l1">
+                  <note dur="4" oct="4" pname="d" stem.dir="up" xml:id="n5dwo6"></note>
+                  <note dur="4" oct="4" pname="f" stem.dir="up" xml:id="nzyf33p"></note>
+                  <note dur="4" oct="4" pname="a" stem.dir="up" xml:id="n1yyjbsa"></note>
+                </layer>
+                <layer n="2" xml:id="m1s1l2">
+                  <note dur="4" oct="3" pname="a" stem.dir="down" xml:id="n12hxb7w"></note>
+                  <chord dur="4" stem.dir="down" xml:id="cedqeba">
+                    <note oct="3" pname="a" xml:id="nmwhzcv"></note>
+                    <note oct="4" pname="d" xml:id="n1drci4i"></note>
+                  </chord>
+                  <chord dur="4" stem.dir="down" xml:id="ciutyg6">
+                    <note oct="4" pname="c" xml:id="nzto7lb"></note>
+                    <note oct="4" pname="e" xml:id="n1d2wxs8"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m1s2">
+                <layer n="1" xml:id="m1s2l1">
+                  <chord dur="4" stem.dir="down" xml:id="cshzfwo">
+                    <note oct="3" pname="d" xml:id="nn9dn8x"></note>
+                    <note oct="3" pname="f" xml:id="n1guhnp3"></note>
+                  </chord>
+                  <note dur="4" oct="3" pname="d" stem.dir="down" xml:id="n9rydwd"></note>
+                  <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="n1imtirw"></note>
+                </layer>
+              </staff>
+              <tempo midi.bpm="72" place="above" staff="1" tstamp="1" type="mscore-infer-from-text" xml:id="ts4jgup"><rend glyph.auth="smufl"></rend> = 72</tempo>
+            </measure>
+            <measure n="2" xml:id="mxnkhth">
+              <staff n="1" xml:id="m2s1">
+                <layer n="1" xml:id="m2s1l1">
+                  <beam>
+                    <note breaksec="1" dur="8" oct="5" pname="d" type="mscore-beam-begin" xml:id="nvceo8u"></note>
+                    <note dur="16" oct="5" pname="e" xml:id="nzsdx7d"></note>
+                    <note dur="16" oct="5" pname="f" xml:id="n1uxdhxs"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="g" type="mscore-beam-begin" xml:id="nvwjzeo"></note>
+                    <note dur="16" oct="5" pname="f" type="mscore-beam-mid" xml:id="n1itpwqq"></note>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-mid" xml:id="n7lb8ee"></note>
+                    <note dur="16" oct="5" pname="d" xml:id="n1v9marr"></note>
+                  </beam>
+                  <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="nhkt0ov">
+                    <accid accid="s" xml:id="a1d671xm"></accid>
+                  </note>
+                </layer>
+                <layer n="2" xml:id="m2s1l2">
+                  <beam>
+                    <chord breaksec="1" dur="8" type="mscore-beam-begin" xml:id="cuftvfh">
+                      <note oct="4" pname="d" xml:id="n1nlcfqo"></note>
+                      <note oct="4" pname="f" xml:id="n1rxtbxn"></note>
+                    </chord>
+                    <note dur="16" oct="4" pname="g" xml:id="nothtw4"></note>
+                    <note dur="16" oct="4" pname="a" xml:id="n13nwcfu"></note>
+                  </beam>
+                  <chord dur="4" stem.dir="down" xml:id="c1584w91">
+                    <note oct="4" pname="d" xml:id="nmfgwwm"></note>
+                    <note oct="4" pname="b" xml:id="n16t885f">
+                      <accid accid.ges="f"></accid>
+                    </note>
+                  </chord>
+                  <chord dur="4" stem.dir="down" xml:id="cpiyu28">
+                    <note oct="4" pname="c" xml:id="n5aeajc">
+                      <accid accid="s" xml:id="a1v8fs5"></accid>
+                    </note>
+                    <note oct="4" pname="a" xml:id="n1ldsgav"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m2s2">
+                <layer n="1" xml:id="m2s2l1">
+                  <note dur="4" oct="2" pname="b" stem.dir="up" xml:id="np1c1ws">
+                    <accid accid.ges="f"></accid>
+                  </note>
+                  <note dur="4" oct="2" pname="g" stem.dir="up" xml:id="n47z2z0"></note>
+                  <note dur="4" oct="2" pname="a" stem.dir="up" xml:id="n1ijoscg"></note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="3" xml:id="mhvvkrh">
+              <staff n="1" xml:id="m3s1">
+                <layer n="1" xml:id="m3s1l1">
+                  <beam>
+                    <note breaksec="1" dur="8" oct="5" pname="a" type="mscore-beam-begin" xml:id="nkjme5o"></note>
+                    <note dur="16" oct="5" pname="d" xml:id="nhk4cvk"></note>
+                    <note dur="16" oct="5" pname="f" xml:id="n1abjzq4"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="a" type="mscore-beam-begin" xml:id="n10t3i8d"></note>
+                    <note dur="16" oct="5" pname="f" type="mscore-beam-mid" xml:id="nuepccf"></note>
+                    <note dur="8" oct="5" pname="d" xml:id="n3h45ye"></note>
+                  </beam>
+                  <note dur="4" oct="5" pname="b" stem.dir="up" xml:id="n1nc94hr">
+                    <accid accid.ges="f"></accid>
+                  </note>
+                </layer>
+                <layer n="2" xml:id="m3s1l2">
+                  <chord dur="4" stem.dir="down" xml:id="c12zcdsr">
+                    <note oct="4" pname="d" xml:id="n1onuoh3"></note>
+                    <note oct="4" pname="a" xml:id="n1r6tkb8"></note>
+                  </chord>
+                  <beam>
+                    <note dur="8" oct="5" pname="d" type="mscore-beam-begin" xml:id="nyz0fyb"></note>
+                    <note dur="8" oct="4" pname="a" xml:id="n13bexnx"></note>
+                  </beam>
+                  <chord dur="4" stem.dir="down" xml:id="c19w8hn2">
+                    <note oct="4" pname="g" xml:id="nfkt565"></note>
+                    <note oct="5" pname="d" xml:id="n1hnovey"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m3s2">
+                <layer n="1" xml:id="m3s2l1">
+                  <note dur="2" oct="2" pname="f" stem.dir="up" xml:id="n1sc2y74"></note>
+                  <note dur="4" oct="2" pname="g" stem.dir="up" xml:id="nk5cy2r"></note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="4" xml:id="mjiv5fr">
+              <staff n="1" xml:id="m4s1">
+                <layer n="1" xml:id="m4s1l1">
+                  <beam>
+                    <note breaksec="1" dur="8" oct="5" pname="g" type="mscore-beam-begin" xml:id="njrtys4"></note>
+                    <note dur="16" oct="5" pname="c" xml:id="niw8emq"></note>
+                    <note dur="16" oct="5" pname="e" xml:id="njn3wdr"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="g" type="mscore-beam-begin" xml:id="n2lmk0"></note>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-mid" xml:id="nm78c4n"></note>
+                    <note dur="8" oct="5" pname="c" xml:id="n1ccmb6x"></note>
+                  </beam>
+                  <note dur="4" oct="5" pname="a" stem.dir="up" xml:id="n15xl6t1"></note>
+                </layer>
+                <layer n="2" xml:id="m4s1l2">
+                  <chord dur="2" stem.dir="down" xml:id="cflfrda">
+                    <note oct="4" pname="g" xml:id="n185iri3"></note>
+                    <note oct="5" pname="c" xml:id="n4rgpty"></note>
+                  </chord>
+                  <chord dur="4" stem.dir="down" xml:id="cxetl1j">
+                    <note oct="4" pname="f" xml:id="n1ebiatd"></note>
+                    <note oct="5" pname="c" xml:id="nk7sgvb"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m4s2">
+                <layer n="1" xml:id="m4s2l1">
+                  <note dur="2" oct="2" pname="e" stem.dir="up" xml:id="n1o64jlr"></note>
+                  <note dur="4" oct="2" pname="f" stem.dir="up" xml:id="nzpra0j"></note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="5" xml:id="mcex4yq">
+              <staff n="1" xml:id="m5s1">
+                <layer n="1" xml:id="m5s1l1">
+                  <beam>
+                    <note breaksec="1" dur="8" oct="5" pname="f" type="mscore-beam-begin" xml:id="n6ednyx"></note>
+                    <note dur="16" oct="4" pname="b" xml:id="n1qdgc11">
+                      <accid accid.ges="f"></accid>
+                    </note>
+                    <note dur="16" oct="5" pname="d" xml:id="n1umcvqb"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="f" type="mscore-beam-begin" xml:id="nmmmiui"></note>
+                    <note dur="16" oct="5" pname="d" type="mscore-beam-mid" xml:id="n1w10y82"></note>
+                    <note dur="8" oct="4" pname="b" xml:id="n3yhyd">
+                      <accid accid.ges="f"></accid>
+                    </note>
+                  </beam>
+                  <note dur="4" oct="5" pname="g" stem.dir="up" xml:id="ny05fg2"></note>
+                </layer>
+                <layer n="2" xml:id="m5s1l2">
+                  <chord dur="2" stem.dir="down" xml:id="c1d1umrc">
+                    <note oct="4" pname="f" xml:id="nmumk66"></note>
+                    <note oct="4" pname="b" xml:id="n4j95zp">
+                      <accid accid.ges="f"></accid>
+                    </note>
+                  </chord>
+                  <chord dur="4" stem.dir="down" xml:id="c1xiucpy">
+                    <note oct="4" pname="g" xml:id="n1m9lage"></note>
+                    <note oct="4" pname="b" xml:id="n1iwwmbf">
+                      <accid accid.ges="f"></accid>
+                    </note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m5s2">
+                <layer n="1" xml:id="m5s2l1">
+                  <note dur="4" oct="2" pname="d" stem.dir="up" xml:id="nr2rok3"></note>
+                  <note dur="4" oct="3" pname="d" stem.dir="down" xml:id="nw1u87p"></note>
+                  <note dur="4" oct="3" pname="e" stem.dir="down" xml:id="n936brc"></note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="6" xml:id="m12wwfo7">
+              <staff n="1" xml:id="m6s1">
+                <layer n="1" xml:id="m6s1l1">
+                  <beam>
+                    <note breaksec="1" dur="8" oct="5" pname="e" type="mscore-beam-begin" xml:id="n1kab6w2"></note>
+                    <note dur="16" oct="4" pname="a" xml:id="n1awni2g"></note>
+                    <note dur="16" oct="5" pname="c" xml:id="n1jq5p83">
+                      <accid accid="s" xml:id="adz6cv"></accid>
+                    </note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-begin" xml:id="n19kzmty"></note>
+                    <note dur="16" oct="5" pname="c" type="mscore-beam-mid" xml:id="n183y390">
+                      <accid accid.ges="s"></accid>
+                    </note>
+                    <note dur="8" oct="4" pname="a" xml:id="nq4bcop"></note>
+                  </beam>
+                  <note dur="4" oct="5" pname="f" stem.dir="up" xml:id="n1kvs04l"></note>
+                </layer>
+                <layer n="2" xml:id="m6s1l2">
+                  <chord dur="2" stem.dir="down" xml:id="cuvpyl3">
+                    <note oct="4" pname="e" xml:id="n1umpw0x"></note>
+                    <note oct="4" pname="a" xml:id="n16rw6us"></note>
+                  </chord>
+                  <chord dur="4" stem.dir="down" xml:id="cg7al35">
+                    <note oct="4" pname="f" xml:id="n10dhxpe"></note>
+                    <note oct="4" pname="a" xml:id="nen10tz"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m6s2">
+                <layer n="1" xml:id="m6s2l1">
+                  <note dur="2" oct="3" pname="c" stem.dir="up" xml:id="n8g9b5q">
+                    <accid accid="s" xml:id="anj9kg8"></accid>
+                  </note>
+                  <note dur="4" oct="3" pname="d" stem.dir="down" xml:id="n1wyou3"></note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="7" xml:id="mqwwjt7">
+              <staff n="1" xml:id="m7s1">
+                <layer n="1" xml:id="m7s1l1">
+                  <beam>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-begin" xml:id="ne9yu87"></note>
+                    <note dur="16" oct="5" pname="f" type="mscore-beam-mid" xml:id="nffg6x4"></note>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-mid" xml:id="n11pq1ps"></note>
+                    <note dur="16" oct="5" pname="d" xml:id="nvn1dcm"></note>
+                  </beam>
+                  <beam>
+                    <note dur="8" oct="5" pname="c" type="mscore-beam-begin" xml:id="n10bu5e2">
+                      <accid accid="s" xml:id="aj6iqhc"></accid>
+                    </note>
+                    <note dur="8" oct="5" pname="f" xml:id="n8yrwqp"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-begin" xml:id="n2d0xhc"></note>
+                    <note dur="16" oct="5" pname="f" type="mscore-beam-mid" xml:id="nqxejj4"></note>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-mid" xml:id="nwhs1sa"></note>
+                    <note dur="16" oct="5" pname="d" xml:id="n1az1ph6"></note>
+                  </beam>
+                </layer>
+                <layer n="2" xml:id="m7s1l2">
+                  <beam>
+                    <chord dur="8" type="mscore-beam-begin" xml:id="cruz52b">
+                      <note oct="4" pname="d" xml:id="nln7tjj"></note>
+                      <note oct="4" pname="b" xml:id="niakde2">
+                        <accid accid.ges="f"></accid>
+                      </note>
+                    </chord>
+                    <note dur="8" oct="4" pname="g" xml:id="n1tvhdeg"></note>
+                  </beam>
+                  <beam>
+                    <chord dur="8" type="mscore-beam-begin" xml:id="cynop6i">
+                      <note oct="4" pname="f" xml:id="n1wyhncy"></note>
+                      <note oct="4" pname="a" xml:id="n1f1bw59"></note>
+                    </chord>
+                    <note dur="8" oct="4" pname="c" xml:id="n1xmcm9d">
+                      <accid accid="s" xml:id="a14cobjz"></accid>
+                    </note>
+                  </beam>
+                  <chord dur="4" stem.dir="down" xml:id="c1h2ldiw">
+                    <note oct="4" pname="d" xml:id="njrr0j6"></note>
+                    <note oct="4" pname="g" xml:id="nwlseyl"></note>
+                  </chord>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m7s2">
+                <layer n="1" xml:id="m7s2l1">
+                  <note dur="4" oct="2" pname="g" stem.dir="up" xml:id="n10lzkcj"></note>
+                  <note dur="4" oct="2" pname="a" stem.dir="up" xml:id="nccy9lh"></note>
+                  <note dur="4" oct="2" pname="b" stem.dir="up" xml:id="n2i81ts">
+                    <accid accid.ges="f"></accid>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure n="8" right="end" xml:id="m1jlesfe">
+              <staff n="1" xml:id="m8s1">
+                <layer n="1" xml:id="m8s1l1">
+                  <beam>
+                    <note dur="8" oct="4" pname="a" type="mscore-beam-begin" xml:id="n1x5auwe"></note>
+                    <note dur="8" oct="5" pname="d" xml:id="n86vine"></note>
+                  </beam>
+                  <beam>
+                    <note dur="16" oct="5" pname="c" type="mscore-beam-begin" xml:id="nkmjvfk">
+                      <accid accid="s" xml:id="a1ud3efh"></accid>
+                    </note>
+                    <note dur="16" oct="5" pname="d" type="mscore-beam-mid" xml:id="nfa34r6"></note>
+                    <note dur="16" oct="5" pname="e" type="mscore-beam-mid" xml:id="no11rnk"></note>
+                    <note dur="16" oct="5" pname="d" xml:id="n1y63qde"></note>
+                  </beam>
+                  <note dur="4" oct="5" pname="d" stem.dir="up" xml:id="n1e8elz7"></note>
+                </layer>
+                <layer n="2" xml:id="m8s1l2">
+                  <beam>
+                    <chord dur="8" type="mscore-beam-begin" xml:id="c1nac2xn">
+                      <note oct="4" pname="c" xml:id="n1362bwy">
+                        <accid accid="s" xml:id="a15i5ref"></accid>
+                      </note>
+                      <note oct="4" pname="g" xml:id="ntt27e0"></note>
+                    </chord>
+                    <chord dur="8" xml:id="cqn6j8p">
+                      <note oct="4" pname="d" xml:id="n1lqope1"></note>
+                      <note oct="4" pname="f" xml:id="n1nz1em7"></note>
+                    </chord>
+                  </beam>
+                  <beam>
+                    <note dur="8" oct="4" pname="e" type="mscore-beam-begin" xml:id="nz45xle"></note>
+                    <note dur="8" oct="3" pname="a" xml:id="n1uso5wj"></note>
+                  </beam>
+                  <beam>
+                    <chord dur="8" type="mscore-beam-begin" xml:id="cllskvz">
+                      <note oct="3" pname="a" xml:id="n1k8q9ci"></note>
+                      <note oct="4" pname="f" xml:id="nhyr855"></note>
+                    </chord>
+                    <note dur="8" oct="4" pname="d" xml:id="n22xmv2"></note>
+                  </beam>
+                </layer>
+              </staff>
+              <staff n="2" xml:id="m8s2">
+                <layer n="1" xml:id="m8s2l1">
+                  <note dur="2" oct="2" pname="a" stem.dir="up" xml:id="nlkh1xc"></note>
+                  <note dur="4" oct="3" pname="d" stem.dir="down" xml:id="n1tmn292"></note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+      <graph type="directed">
+        <node strucl="3" xml:id="gn-n5dwo6">
+          <label>
+            <note corresp="#n5dwo6"></note>
+          </label>
+        </node>
+        <node strucl="2" xml:id="gn-nvceo8u">
+          <label>
+            <note corresp="#nvceo8u"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-nzyf33p">
+          <label>
+            <note corresp="#nzyf33p"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-n1yyjbsa">
+          <label>
+            <note corresp="#n1yyjbsa"></note>
+          </label>
+        </node>
+        <node strucl="4" type="relation" xml:id="he-kNjm--YI">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-kNjm--YI" to="#gn-n5dwo6" type="primary"></arc>
+        <arc from="#he-kNjm--YI" to="#gn-nvceo8u" type="primary"></arc>
+        <arc from="#he-kNjm--YI" to="#gn-nzyf33p" type="secondary"></arc>
+        <arc from="#he-kNjm--YI" to="#gn-n1yyjbsa" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-G_Imp6ft">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-G_Imp6ft" to="#gn-nvceo8u" type="primary"></arc>
+        <arc from="#he-G_Imp6ft" to="#gn-n5dwo6" type="secondary"></arc>
+        <node strucl="3" xml:id="gn-nvwjzeo">
+          <label>
+            <note corresp="#nvwjzeo"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-nzsdx7d">
+          <label>
+            <note corresp="#nzsdx7d"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-n1uxdhxs">
+          <label>
+            <note corresp="#n1uxdhxs"></note>
+          </label>
+        </node>
+        <node strucl="4" type="relation" xml:id="he-Ad__-rtP">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-Ad__-rtP" to="#gn-nvceo8u" type="primary"></arc>
+        <arc from="#he-Ad__-rtP" to="#gn-nvwjzeo" type="primary"></arc>
+        <arc from="#he-Ad__-rtP" to="#gn-nzsdx7d" type="secondary"></arc>
+        <arc from="#he-Ad__-rtP" to="#gn-n1uxdhxs" type="secondary"></arc>
+        <node strucl="9" xml:id="gn-n1v9marr">
+          <label>
+            <note corresp="#n1v9marr"></note>
+          </label>
+        </node>
+        <node strucl="10" xml:id="gn-n1itpwqq">
+          <label>
+            <note corresp="#n1itpwqq"></note>
+          </label>
+        </node>
+        <node strucl="10" xml:id="gn-n7lb8ee">
+          <label>
+            <note corresp="#n7lb8ee"></note>
+          </label>
+        </node>
+        <node strucl="10" type="relation" xml:id="he-MiYqTzjH">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-MiYqTzjH" to="#gn-nvwjzeo" type="primary"></arc>
+        <arc from="#he-MiYqTzjH" to="#gn-n1v9marr" type="primary"></arc>
+        <arc from="#he-MiYqTzjH" to="#gn-n1itpwqq" type="secondary"></arc>
+        <arc from="#he-MiYqTzjH" to="#gn-n7lb8ee" type="secondary"></arc>
+        <node strucl="9" type="relation" xml:id="he-Jf2Jt.rh">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-Jf2Jt.rh" to="#gn-nvwjzeo" type="primary"></arc>
+        <arc from="#he-Jf2Jt.rh" to="#gn-n1v9marr" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-nhkt0ov">
+          <label>
+            <note corresp="#nhkt0ov"></note>
+          </label>
+        </node>
+        <node strucl="1" xml:id="gn-nkjme5o">
+          <label>
+            <note corresp="#nkjme5o"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-Ng0wXBY0">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-Ng0wXBY0" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-Ng0wXBY0" to="#gn-nhkt0ov" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-jVUkAU2f">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-jVUkAU2f" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-jVUkAU2f" to="#gn-nvwjzeo" type="secondary"></arc>
+        <node strucl="7" xml:id="gn-nhk4cvk">
+          <label>
+            <note corresp="#nhk4cvk"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-mEI15MkJ">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-mEI15MkJ" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-mEI15MkJ" to="#gn-nhk4cvk" type="secondary"></arc>
+        <node strucl="6" xml:id="gn-n10t3i8d">
+          <label>
+            <note corresp="#n10t3i8d"></note>
+          </label>
+        </node>
+        <node strucl="8" xml:id="gn-n1abjzq4">
+          <label>
+            <note corresp="#n1abjzq4"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-R0tYTsMd">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-R0tYTsMd" to="#gn-nhk4cvk" type="primary"></arc>
+        <arc from="#he-R0tYTsMd" to="#gn-n10t3i8d" type="primary"></arc>
+        <arc from="#he-R0tYTsMd" to="#gn-n1abjzq4" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-h_LKrmhZ">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-h_LKrmhZ" to="#gn-n10t3i8d" type="primary"></arc>
+        <arc from="#he-h_LKrmhZ" to="#gn-nhk4cvk" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-n3h45ye">
+          <label>
+            <note corresp="#n3h45ye"></note>
+          </label>
+        </node>
+        <node strucl="9" xml:id="gn-nuepccf">
+          <label>
+            <note corresp="#nuepccf"></note>
+          </label>
+        </node>
+        <node strucl="9" type="relation" xml:id="he-dYc7eeoZ">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-dYc7eeoZ" to="#gn-n10t3i8d" type="primary"></arc>
+        <arc from="#he-dYc7eeoZ" to="#gn-n3h45ye" type="primary"></arc>
+        <arc from="#he-dYc7eeoZ" to="#gn-nuepccf" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-MYwHRCSh">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-MYwHRCSh" to="#gn-n10t3i8d" type="primary"></arc>
+        <arc from="#he-MYwHRCSh" to="#gn-n3h45ye" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-n1nc94hr">
+          <label>
+            <note corresp="#n1nc94hr"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-njrtys4">
+          <label>
+            <note corresp="#njrtys4"></note>
+          </label>
+        </node>
+        <node strucl="5" type="relation" xml:id="he-BCZYufqK">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-BCZYufqK" to="#gn-njrtys4" type="primary"></arc>
+        <arc from="#he-BCZYufqK" to="#gn-n1nc94hr" type="secondary"></arc>
+        <node strucl="7" xml:id="gn-niw8emq">
+          <label>
+            <note corresp="#niw8emq"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-l_Azpy5.">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-l_Azpy5." to="#gn-njrtys4" type="primary"></arc>
+        <arc from="#he-l_Azpy5." to="#gn-niw8emq" type="secondary"></arc>
+        <node strucl="6" xml:id="gn-n2lmk0">
+          <label>
+            <note corresp="#n2lmk0"></note>
+          </label>
+        </node>
+        <node strucl="8" xml:id="gn-njn3wdr">
+          <label>
+            <note corresp="#njn3wdr"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-veEUbyXS">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-veEUbyXS" to="#gn-niw8emq" type="primary"></arc>
+        <arc from="#he-veEUbyXS" to="#gn-n2lmk0" type="primary"></arc>
+        <arc from="#he-veEUbyXS" to="#gn-njn3wdr" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-n1ccmb6x">
+          <label>
+            <note corresp="#n1ccmb6x"></note>
+          </label>
+        </node>
+        <node strucl="9" xml:id="gn-nm78c4n">
+          <label>
+            <note corresp="#nm78c4n"></note>
+          </label>
+        </node>
+        <node strucl="9" type="relation" xml:id="he-mw1X7iE6">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-mw1X7iE6" to="#gn-n2lmk0" type="primary"></arc>
+        <arc from="#he-mw1X7iE6" to="#gn-n1ccmb6x" type="primary"></arc>
+        <arc from="#he-mw1X7iE6" to="#gn-nm78c4n" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-h09KE2rd">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-h09KE2rd" to="#gn-n2lmk0" type="primary"></arc>
+        <arc from="#he-h09KE2rd" to="#gn-n1ccmb6x" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-d.yBHlJv">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-d.yBHlJv" to="#gn-n2lmk0" type="primary"></arc>
+        <arc from="#he-d.yBHlJv" to="#gn-niw8emq" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-MbsJHMNt">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-MbsJHMNt" to="#gn-njrtys4" type="primary"></arc>
+        <arc from="#he-MbsJHMNt" to="#gn-n2lmk0" type="secondary"></arc>
+        <node strucl="5" type="relation" xml:id="he-Vly3KufZ">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-Vly3KufZ" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-Vly3KufZ" to="#gn-n1nc94hr" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-n15xl6t1">
+          <label>
+            <note corresp="#n15xl6t1"></note>
+          </label>
+        </node>
+        <node strucl="5" type="relation" xml:id="he-pvBrXoyN">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-pvBrXoyN" to="#gn-njrtys4" type="primary"></arc>
+        <arc from="#he-pvBrXoyN" to="#gn-n15xl6t1" type="secondary"></arc>
+        <node strucl="4" xml:id="gn-n6ednyx">
+          <label>
+            <note corresp="#n6ednyx"></note>
+          </label>
+        </node>
+        <node strucl="5" type="relation" xml:id="he-MoA03hjw">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-MoA03hjw" to="#gn-n6ednyx" type="primary"></arc>
+        <arc from="#he-MoA03hjw" to="#gn-n15xl6t1" type="secondary"></arc>
+        <node strucl="7" xml:id="gn-n1qdgc11">
+          <label>
+            <note corresp="#n1qdgc11"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-w65lI2uh">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-w65lI2uh" to="#gn-n6ednyx" type="primary"></arc>
+        <arc from="#he-w65lI2uh" to="#gn-n1qdgc11" type="secondary"></arc>
+        <node strucl="6" xml:id="gn-nmmmiui">
+          <label>
+            <note corresp="#nmmmiui"></note>
+          </label>
+        </node>
+        <node strucl="8" xml:id="gn-n1umcvqb">
+          <label>
+            <note corresp="#n1umcvqb"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-b7LfD6.F">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-b7LfD6.F" to="#gn-n1qdgc11" type="primary"></arc>
+        <arc from="#he-b7LfD6.F" to="#gn-nmmmiui" type="primary"></arc>
+        <arc from="#he-b7LfD6.F" to="#gn-n1umcvqb" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-uSOPDJxb">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-uSOPDJxb" to="#gn-nmmmiui" type="primary"></arc>
+        <arc from="#he-uSOPDJxb" to="#gn-n1qdgc11" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-n3yhyd">
+          <label>
+            <note corresp="#n3yhyd"></note>
+          </label>
+        </node>
+        <node strucl="9" xml:id="gn-n1w10y82">
+          <label>
+            <note corresp="#n1w10y82"></note>
+          </label>
+        </node>
+        <node strucl="9" type="relation" xml:id="he-_ZCe7QYx">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-_ZCe7QYx" to="#gn-nmmmiui" type="primary"></arc>
+        <arc from="#he-_ZCe7QYx" to="#gn-n3yhyd" type="primary"></arc>
+        <arc from="#he-_ZCe7QYx" to="#gn-n1w10y82" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-TzSieXz_">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-TzSieXz_" to="#gn-nmmmiui" type="primary"></arc>
+        <arc from="#he-TzSieXz_" to="#gn-n3yhyd" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-ny05fg2">
+          <label>
+            <note corresp="#ny05fg2"></note>
+          </label>
+        </node>
+        <node strucl="5" type="relation" xml:id="he-c0MUVkNN">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-c0MUVkNN" to="#gn-n6ednyx" type="primary"></arc>
+        <arc from="#he-c0MUVkNN" to="#gn-ny05fg2" type="secondary"></arc>
+        <node strucl="3" xml:id="gn-n1kab6w2">
+          <label>
+            <note corresp="#n1kab6w2"></note>
+          </label>
+        </node>
+        <node strucl="5" type="relation" xml:id="he-BM80fLG5">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-BM80fLG5" to="#gn-n1kab6w2" type="primary"></arc>
+        <arc from="#he-BM80fLG5" to="#gn-ny05fg2" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-XZlYDn..">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-XZlYDn.." to="#gn-n6ednyx" type="primary"></arc>
+        <arc from="#he-XZlYDn.." to="#gn-nmmmiui" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-WAQxoowZ">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-WAQxoowZ" to="#gn-n1nc94hr" type="primary"></arc>
+        <arc from="#he-WAQxoowZ" to="#gn-n3h45ye" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-m-XX7v0U">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-m-XX7v0U" to="#gn-n15xl6t1" type="primary"></arc>
+        <arc from="#he-m-XX7v0U" to="#gn-n1ccmb6x" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-egHK2bdE">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-egHK2bdE" to="#gn-ny05fg2" type="primary"></arc>
+        <arc from="#he-egHK2bdE" to="#gn-n3yhyd" type="secondary"></arc>
+        <node strucl="4" xml:id="gn-n19kzmty">
+          <label>
+            <note corresp="#n19kzmty"></note>
+          </label>
+        </node>
+        <node strucl="4" type="relation" xml:id="he-exl5Kgj2">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-exl5Kgj2" to="#gn-n1kab6w2" type="primary"></arc>
+        <arc from="#he-exl5Kgj2" to="#gn-n19kzmty" type="secondary"></arc>
+        <node strucl="2" xml:id="gn-n1kvs04l">
+          <label>
+            <note corresp="#n1kvs04l"></note>
+          </label>
+        </node>
+        <node strucl="7" xml:id="gn-n1awni2g">
+          <label>
+            <note corresp="#n1awni2g"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-s1jsWptL">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-s1jsWptL" to="#gn-n1kab6w2" type="primary"></arc>
+        <arc from="#he-s1jsWptL" to="#gn-n1awni2g" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-n1jq5p83">
+          <label>
+            <note corresp="#n1jq5p83"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-Qv6v7IFd">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-Qv6v7IFd" to="#gn-n1awni2g" type="primary"></arc>
+        <arc from="#he-Qv6v7IFd" to="#gn-n19kzmty" type="primary"></arc>
+        <arc from="#he-Qv6v7IFd" to="#gn-n1jq5p83" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-IUfS.1uj">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-IUfS.1uj" to="#gn-n19kzmty" type="primary"></arc>
+        <arc from="#he-IUfS.1uj" to="#gn-n1awni2g" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-nq4bcop">
+          <label>
+            <note corresp="#nq4bcop"></note>
+          </label>
+        </node>
+        <node strucl="9" xml:id="gn-n183y390">
+          <label>
+            <note corresp="#n183y390"></note>
+          </label>
+        </node>
+        <node strucl="9" type="relation" xml:id="he-IQ4BgXCu">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-IQ4BgXCu" to="#gn-n19kzmty" type="primary"></arc>
+        <arc from="#he-IQ4BgXCu" to="#gn-nq4bcop" type="primary"></arc>
+        <arc from="#he-IQ4BgXCu" to="#gn-n183y390" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-X9_FwlmL">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-X9_FwlmL" to="#gn-n19kzmty" type="primary"></arc>
+        <arc from="#he-X9_FwlmL" to="#gn-nq4bcop" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-s_zhyoNE">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-s_zhyoNE" to="#gn-n1kvs04l" type="primary"></arc>
+        <arc from="#he-s_zhyoNE" to="#gn-nq4bcop" type="secondary"></arc>
+        <node strucl="4" type="relation" xml:id="he-vzd-0Ujf">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-vzd-0Ujf" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-vzd-0Ujf" to="#gn-n1kab6w2" type="primary"></arc>
+        <arc from="#he-vzd-0Ujf" to="#gn-njrtys4" type="secondary"></arc>
+        <arc from="#he-vzd-0Ujf" to="#gn-n6ednyx" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-dXYMnzAN">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-dXYMnzAN" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-dXYMnzAN" to="#gn-n1kab6w2" type="secondary"></arc>
+        <node strucl="2" type="relation" xml:id="he-rD0jZ3_Y">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-rD0jZ3_Y" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-rD0jZ3_Y" to="#gn-n1kvs04l" type="secondary"></arc>
+        <node strucl="3" xml:id="gn-n1e8elz7">
+          <label>
+            <note corresp="#n1e8elz7"></note>
+          </label>
+        </node>
+        <node strucl="4" xml:id="gn-ne9yu87">
+          <label>
+            <note corresp="#ne9yu87"></note>
+          </label>
+        </node>
+        <node strucl="4" type="relation" xml:id="he-D1Haz3Gp">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-D1Haz3Gp" to="#gn-n1kvs04l" type="primary"></arc>
+        <arc from="#he-D1Haz3Gp" to="#gn-n1e8elz7" type="primary"></arc>
+        <arc from="#he-D1Haz3Gp" to="#gn-ne9yu87" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-Mfmt9VLz">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-Mfmt9VLz" to="#gn-n1kvs04l" type="primary"></arc>
+        <arc from="#he-Mfmt9VLz" to="#gn-n1e8elz7" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-n11pq1ps">
+          <label>
+            <note corresp="#n11pq1ps"></note>
+          </label>
+        </node>
+        <node strucl="6" xml:id="gn-nffg6x4">
+          <label>
+            <note corresp="#nffg6x4"></note>
+          </label>
+        </node>
+        <node strucl="6" type="relation" xml:id="he-BX2Qd_AE">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-BX2Qd_AE" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-BX2Qd_AE" to="#gn-n11pq1ps" type="primary"></arc>
+        <arc from="#he-BX2Qd_AE" to="#gn-nffg6x4" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-n10bu5e2">
+          <label>
+            <note corresp="#n10bu5e2"></note>
+          </label>
+        </node>
+        <node strucl="6" xml:id="gn-nvn1dcm">
+          <label>
+            <note corresp="#nvn1dcm"></note>
+          </label>
+        </node>
+        <node strucl="6" type="relation" xml:id="he-HuYdk9Hn">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-HuYdk9Hn" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-HuYdk9Hn" to="#gn-n10bu5e2" type="primary"></arc>
+        <arc from="#he-HuYdk9Hn" to="#gn-nvn1dcm" type="secondary"></arc>
+        <node strucl="5" type="relation" xml:id="he-W57Buuz.">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-W57Buuz." to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-W57Buuz." to="#gn-n10bu5e2" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-n2d0xhc">
+          <label>
+            <note corresp="#n2d0xhc"></note>
+          </label>
+        </node>
+        <node strucl="6" xml:id="gn-n8yrwqp">
+          <label>
+            <note corresp="#n8yrwqp"></note>
+          </label>
+        </node>
+        <node strucl="6" type="relation" xml:id="he-QZVzYDNc">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-QZVzYDNc" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-QZVzYDNc" to="#gn-n2d0xhc" type="primary"></arc>
+        <arc from="#he-QZVzYDNc" to="#gn-n8yrwqp" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-nwhs1sa">
+          <label>
+            <note corresp="#nwhs1sa"></note>
+          </label>
+        </node>
+        <node strucl="6" xml:id="gn-nqxejj4">
+          <label>
+            <note corresp="#nqxejj4"></note>
+          </label>
+        </node>
+        <node strucl="6" type="relation" xml:id="he-Vn0EJ780">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-Vn0EJ780" to="#gn-n2d0xhc" type="primary"></arc>
+        <arc from="#he-Vn0EJ780" to="#gn-nwhs1sa" type="primary"></arc>
+        <arc from="#he-Vn0EJ780" to="#gn-nqxejj4" type="secondary"></arc>
+        <node strucl="6" xml:id="gn-n1az1ph6">
+          <label>
+            <note corresp="#n1az1ph6"></note>
+          </label>
+        </node>
+        <node strucl="6" type="relation" xml:id="he-y2p9kdFp">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-y2p9kdFp" to="#gn-nwhs1sa" type="primary"></arc>
+        <arc from="#he-y2p9kdFp" to="#gn-n1az1ph6" type="secondary"></arc>
+        <node strucl="6" xml:id="gn-nkmjvfk">
+          <label>
+            <note corresp="#nkmjvfk"></note>
+          </label>
+        </node>
+        <node strucl="7" xml:id="gn-n86vine">
+          <label>
+            <note corresp="#n86vine"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-gkuOpRs-">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-gkuOpRs-" to="#gn-nkmjvfk" type="primary"></arc>
+        <arc from="#he-gkuOpRs-" to="#gn-n86vine" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-FPrBXIW_">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-FPrBXIW_" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-FPrBXIW_" to="#gn-nkmjvfk" type="primary"></arc>
+        <arc from="#he-FPrBXIW_" to="#gn-n86vine" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-NtbG_9wx">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-NtbG_9wx" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-NtbG_9wx" to="#gn-nkmjvfk" type="secondary"></arc>
+        <node strucl="5" xml:id="gn-no11rnk">
+          <label>
+            <note corresp="#no11rnk"></note>
+          </label>
+        </node>
+        <node strucl="7" xml:id="gn-nfa34r6">
+          <label>
+            <note corresp="#nfa34r6"></note>
+          </label>
+        </node>
+        <node strucl="7" type="relation" xml:id="he-b0hAhiAQ">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-b0hAhiAQ" to="#gn-nkmjvfk" type="primary"></arc>
+        <arc from="#he-b0hAhiAQ" to="#gn-no11rnk" type="primary"></arc>
+        <arc from="#he-b0hAhiAQ" to="#gn-nfa34r6" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-FmxldJAD">
+          <label type="passing"></label>
+        </node>
+        <arc from="#he-FmxldJAD" to="#gn-no11rnk" type="primary"></arc>
+        <arc from="#he-FmxldJAD" to="#gn-nkmjvfk" type="secondary"></arc>
+        <node strucl="5" type="relation" xml:id="he-yvm-kmSm">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-yvm-kmSm" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-yvm-kmSm" to="#gn-no11rnk" type="secondary"></arc>
+        <node strucl="4" xml:id="gn-n1y63qde">
+          <label>
+            <note corresp="#n1y63qde"></note>
+          </label>
+        </node>
+        <node strucl="4" type="relation" xml:id="he-U1G0B7b8">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-U1G0B7b8" to="#gn-n1e8elz7" type="primary"></arc>
+        <arc from="#he-U1G0B7b8" to="#gn-n1y63qde" type="secondary"></arc>
+        <node strucl="8" xml:id="gn-n1x5auwe">
+          <label>
+            <note corresp="#n1x5auwe"></note>
+          </label>
+        </node>
+        <node strucl="8" type="relation" xml:id="he-d.nVsFVi">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-d.nVsFVi" to="#gn-n86vine" type="primary"></arc>
+        <arc from="#he-d.nVsFVi" to="#gn-n1x5auwe" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-oqzpuR1.">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-oqzpuR1." to="#gn-nvceo8u" type="primary"></arc>
+        <arc from="#he-oqzpuR1." to="#gn-nvwjzeo" type="secondary"></arc>
+        <node strucl="2" type="relation" xml:id="he-X55Fwpbe">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-X55Fwpbe" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-X55Fwpbe" to="#gn-nvceo8u" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-iw-mL.bC">
+          <label type="arpeggiation"></label>
+        </node>
+        <arc from="#he-iw-mL.bC" to="#gn-nvwjzeo" type="primary"></arc>
+        <arc from="#he-iw-mL.bC" to="#gn-nhkt0ov" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-NhVy.s1S">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-NhVy.s1S" to="#gn-nhk4cvk" type="primary"></arc>
+        <arc from="#he-NhVy.s1S" to="#gn-nhkt0ov" type="secondary"></arc>
+        <node strucl="9" type="relation" xml:id="he-SEdmKuZ8">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-SEdmKuZ8" to="#gn-nhkt0ov" type="primary"></arc>
+        <arc from="#he-SEdmKuZ8" to="#gn-n1v9marr" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-KDOfjNqs">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-KDOfjNqs" to="#gn-nkjme5o" type="primary"></arc>
+        <arc from="#he-KDOfjNqs" to="#gn-n10t3i8d" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-UDB0eiIS">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-UDB0eiIS" to="#gn-nhk4cvk" type="primary"></arc>
+        <arc from="#he-UDB0eiIS" to="#gn-n3h45ye" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-l9cuhSKP">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-l9cuhSKP" to="#gn-niw8emq" type="primary"></arc>
+        <arc from="#he-l9cuhSKP" to="#gn-n1ccmb6x" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-ICzfJrdM">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-ICzfJrdM" to="#gn-n1qdgc11" type="primary"></arc>
+        <arc from="#he-ICzfJrdM" to="#gn-n3yhyd" type="secondary"></arc>
+        <node strucl="8" type="relation" xml:id="he-gw1eNydL">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-gw1eNydL" to="#gn-n1awni2g" type="primary"></arc>
+        <arc from="#he-gw1eNydL" to="#gn-nq4bcop" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-Dil5WYq5">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-Dil5WYq5" to="#gn-n1nc94hr" type="primary"></arc>
+        <arc from="#he-Dil5WYq5" to="#gn-n10t3i8d" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-R1PV_T0O">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-R1PV_T0O" to="#gn-n15xl6t1" type="primary"></arc>
+        <arc from="#he-R1PV_T0O" to="#gn-n2lmk0" type="secondary"></arc>
+        <node strucl="6" type="relation" xml:id="he-iUvMV6IG">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-iUvMV6IG" to="#gn-ny05fg2" type="primary"></arc>
+        <arc from="#he-iUvMV6IG" to="#gn-nmmmiui" type="secondary"></arc>
+        <node strucl="4" type="relation" xml:id="he-FzsUpxMp">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-FzsUpxMp" to="#gn-n1kvs04l" type="primary"></arc>
+        <arc from="#he-FzsUpxMp" to="#gn-n19kzmty" type="secondary"></arc>
+        <node strucl="3" type="relation" xml:id="he-IXroHS85">
+          <label type="neighbor"></label>
+        </node>
+        <arc from="#he-IXroHS85" to="#gn-n1kvs04l" type="primary"></arc>
+        <arc from="#he-IXroHS85" to="#gn-n1kab6w2" type="secondary"></arc>
+        <node strucl="7" type="relation" xml:id="he-Q9jOaq9-">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-Q9jOaq9-" to="#gn-nhk4cvk" type="secondary"></arc>
+        <arc from="#he-Q9jOaq9-" to="#gn-n1awni2g" type="secondary"></arc>
+        <node strucl="5" type="relation" xml:id="he-IBOdxeY9">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-IBOdxeY9" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-IBOdxeY9" to="#gn-n11pq1ps" type="secondary"></arc>
+        <node strucl="5" type="relation" xml:id="he-J3PUtNJT">
+          <label type="repetition"></label>
+        </node>
+        <arc from="#he-J3PUtNJT" to="#gn-ne9yu87" type="primary"></arc>
+        <arc from="#he-J3PUtNJT" to="#gn-n2d0xhc" type="secondary"></arc>
+        <arc from="#he-J3PUtNJT" to="#gn-nwhs1sa" type="secondary"></arc>
+      </graph>
+    </body>
+  </music>
+</mei>
